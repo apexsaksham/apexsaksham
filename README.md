@@ -1,5 +1,13 @@
-# 💫 About Me:
-# 👋 Hi, I'm Saksham Singh (@apexsaksham)<br><br>### 🌟 About Me<br>🎓 BCA Graduate from Tirupati College of Technical Education  <br>💻 Passionate about **Cloud Technologies, DevOps, Linux, and Programming**  <br>🌱 Currently mastering **Linux fundamentals**, **AWS**, **Terraform**, and **Docker**  <br>🖥️ Proficient in **Python**, **Cloud concepts**, and **CI/CD automation**  <br>💡 Love building **practical solutions from theoretical knowledge**  <br><br>### 🚀 What I’m Working On<br>- **Python automation projects** for real-world problems  <br>- **Cloud & DevOps projects**: multi-tier web apps, serverless solutions, Terraform infrastructure  <br>- Building a **personal cloud portfolio** hosted on AWS using S3, CloudFront, Lambda, and Route 53  <br><br>### 💞️ Looking to Collaborate On<br>- Python-based projects  <br>- Cloud and DevOps solutions using **AWS, Terraform, Docker**  <br>- Creative automation and AI-powered tools  <br><br>### 📫 How to Reach Me<br>- 💌 Email: [saksham26singh@gmail.com](mailto:saksham26singh@gmail.com)  <br>- 🌐 LinkedIn: [linkedin.com/in/saksham-singh-pundhir-314260261](https://www.linkedin.com/in/saksham-singh-pundhir-314260261)  <br><br>### 😄 Pronouns<br>He/Him  <br><br>### ⚡ Fun Fact<br>I thrive in **challenging environments**, turning **theoretical knowledge into practical solutions**.  <br>Always excited to **learn new technologies** and **meet like-minded people**.  <br><br>---<br><br>### 🛠️ Skills & Tools<br>- **Programming & Scripting:** Python, Bash  <br>- **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS, CloudFront, CloudWatch), Terraform, Docker  <br>- **CI/CD & Automation:** GitHub Actions, Python automation scripts  <br>- **Linux & System Administration:** Ubuntu, CentOS, Shell scripting  <br>- **Other Interests:** Cloud architecture, Serverless solutions, AI-powered automation  <br><br><br>---<br><br>### 🏆 Highlights<br>- Built **3-tier web app on AWS** (Frontend + Backend + RDS)  <br>- Developing **serverless AI-powered projects** using Lambda & S3  <br>- Sharing **Linux & Cloud cheat sheets**, Python scripts, and tutorials  <br>- Actively learning **Terraform + GitHub Actions CI/CD** workflows  <br><br>
+# 👋 Hi, I'm Saksham Singh (@apexsaksham)
+
+🎓 BCA Graduate | 💻 Cloud, DevOps, Linux & Python Enthusiast  
+🌱 Learning **Linux, AWS, Terraform, Docker** | 🖥️ Building **Python automation & cloud projects**  
+💡 Turning **theory into practical solutions**  
+
+### 🚀 Highlights
+- Built **3-tier web app on AWS** (Frontend + Backend + RDS)  
+- Developing **serverless AI-powered projects** using Lambda & S3  
+- Sharing **Linux & Cloud cheat sheets**, Python scripts, and tutorials
 
 
 ## 🌐 Socials:
