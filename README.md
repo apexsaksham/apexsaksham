@@ -1,28 +1,24 @@
-👋 Hi, I’m Saksham Singh (@apexsaksham)
-🌟 About Me
-🎓 "BCA Graduate from Tirupati College of Technical Education.
-👀 I’m passionate about Cloud Technologies, Linux, and Programming.
-🌱 Currently diving into the fundamentals of Linux and planning to pursue Cloud Certification.
-🖥️ Proficient in Python, and Cloud Concepts with a keen interest in AWS.
-💼 What I’m Working On
-🚀 Building some mini Python projects , focusing on automation and creativity.
-💻 Exploring more mini Python projects to enhance my skills and understanding.
-💞️ Looking to Collaborate On
-Python-based projects.
-Linux and Cloud-related development.
-Creative ideas for automation and cloud solutions.
-📫 How to Reach Me
-💌 Email: saksham26singh@gmail.com
-🌐 LinkedIn: www.linkedin.com/in/saksham-singh-pundhir-314260261
+# 💫 About Me:
+# 👋 Hi, I'm Saksham Singh (@apexsaksham)<br><br>### 🌟 About Me<br>🎓 BCA Graduate from Tirupati College of Technical Education  <br>💻 Passionate about **Cloud Technologies, DevOps, Linux, and Programming**  <br>🌱 Currently mastering **Linux fundamentals**, **AWS**, **Terraform**, and **Docker**  <br>🖥️ Proficient in **Python**, **Cloud concepts**, and **CI/CD automation**  <br>💡 Love building **practical solutions from theoretical knowledge**  <br><br>### 🚀 What I’m Working On<br>- **Python automation projects** for real-world problems  <br>- **Cloud & DevOps projects**: multi-tier web apps, serverless solutions, Terraform infrastructure  <br>- Building a **personal cloud portfolio** hosted on AWS using S3, CloudFront, Lambda, and Route 53  <br><br>### 💞️ Looking to Collaborate On<br>- Python-based projects  <br>- Cloud and DevOps solutions using **AWS, Terraform, Docker**  <br>- Creative automation and AI-powered tools  <br><br>### 📫 How to Reach Me<br>- 💌 Email: [saksham26singh@gmail.com](mailto:saksham26singh@gmail.com)  <br>- 🌐 LinkedIn: [linkedin.com/in/saksham-singh-pundhir-314260261](https://www.linkedin.com/in/saksham-singh-pundhir-314260261)  <br><br>### 😄 Pronouns<br>He/Him  <br><br>### ⚡ Fun Fact<br>I thrive in **challenging environments**, turning **theoretical knowledge into practical solutions**.  <br>Always excited to **learn new technologies** and **meet like-minded people**.  <br><br>---<br><br>### 🛠️ Skills & Tools<br>- **Programming & Scripting:** Python, Bash  <br>- **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS, CloudFront, CloudWatch), Terraform, Docker  <br>- **CI/CD & Automation:** GitHub Actions, Python automation scripts  <br>- **Linux & System Administration:** Ubuntu, CentOS, Shell scripting  <br>- **Other Interests:** Cloud architecture, Serverless solutions, AI-powered automation  <br><br><br>---<br><br>### 🏆 Highlights<br>- Built **3-tier web app on AWS** (Frontend + Backend + RDS)  <br>- Developing **serverless AI-powered projects** using Lambda & S3  <br>- Sharing **Linux & Cloud cheat sheets**, Python scripts, and tutorials  <br>- Actively learning **Terraform + GitHub Actions CI/CD** workflows  <br><br>
 
-😄 Pronouns
-He/Him
 
-⚡ Fun Fact
-I love challenging environments where I can turn theoretical knowledge into practical applications.
-Always excited to learn new things and meet new people!
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@becomingsakshamm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/saksham-singh-pundhir-314260261) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SakshamPundhir) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Saksham singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saksham26singh@gmail.com) 
 
-<!---
-apexsaksham/apexsaksham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=apexsaksham&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=apexsaksham&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=apexsaksham&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=apexsaksham&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=apexsaksham&limit=5&theme=darcula&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=apexsaksham&icon=5&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
